@@ -4,7 +4,7 @@
 Adds an "awards" links to the publication widget for wowchemy/hugo websites. 
 
 
-Simply add the "layouts" folden within your website's folder (i.e., at the same level as "content" and "config"). 
+Simply add the "layouts" folder within your website's folder (i.e., at the same level as "content" and "config"). 
 
 You can then add awards to your publications, by adding 
 

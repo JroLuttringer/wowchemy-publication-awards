@@ -8,13 +8,13 @@ Simply add the "layouts" folden within your website's folder (i.e., at the same 
 
 You can then add awards to your publications, by adding 
 
-'''
+```
 awards:
 - name: "Best paper award"
   url: "http://conference/awards/"
 - name: "Double best paper"
   url: ""
-'''
+```
 
 within the index.md file of your publication. You can have multiple awards per publications. 
 
